@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include <variant_generic.h>
 
 #define LED PB6 // example pin
 
